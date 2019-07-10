@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+Women Rights Of Bangladesh
 
-You can use the [editor on GitHub](https://github.com/Razqin-Studio/Women-Rights-Of-Bangladesh/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Child & Women Laws, All Thana, Emergency  & TV Channel Numbers
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Women are part and parcel of society. They are the nerve of the society. We cannot deny their role in the global society. We cannot imagine a body without a heart. Similarly it is not to think a societal improvement without the participation of the women  with this view in mind our national poet quoted that the creation of the world whatever great and beneficial for human being are shared fifty by man and fifty percent women. In Bangladesh practical field of present twenty century they can’t live independently.
 
-### Markdown
+We know from Bangladesh bouro us of statistics BBS that almost 50% of population are women. So without the development and participation of women equal as men, our national development will be surely hampered.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Right is the power or privilege to which is entitled or a thing to which one has a just claim. Many different types of rights have been described. Many of them terns means such kind of right which deal women or females facility to get right proper life and right to get right to deal own economic political etc. Every women have right to get right to life, right to proper education, freedom of movement it is universal declaration for all women.
 
-```markdown
-Syntax highlighted code block
+This App Supports - 
 
-# Header 1
-## Header 2
-### Header 3
+1.Child & Women Law Of Bangladesh
+2.All Thana Numbers Of Dhaka City
+3.All TV Channel Numbers of Dhaka
+4.Top Social Media Link
+5.All Emergency Numbers
 
-- Bulleted
-- List
+*For Upcoming features - Please make sure Your App is Updated
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Razqin-Studio/Women-Rights-Of-Bangladesh/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Publisher -
+
+Razqin Studio
+
+Nadim Parvez Ringque
+
+0242
